@@ -12,8 +12,8 @@ This repository contains scanning electron microscope (SEM) images of corrosion 
 If you use this dataset, please cite the related study as follows:
 
 Ali Osman Gökcan, Aysel Yazıcı, M. Sadrettin Zeybek. *Deep learning-based detection of corrosion categories from SEM images of low alloyed medium carbon steel*.  
-**Manuscript submitted to the journal of Materials and Corrosion (Werkstoffe und Korrosion).**  
-(This work has not yet been published.)
+**  (This work has not yet been published.) **
+
 
 We kindly ask you to give appropriate credit when using this dataset in any form of research or publication.
 
