@@ -14,9 +14,18 @@ If you use this dataset, please cite the related study as follows:
 Ali Osman Gökcan, Aysel Yazıcı, M. Sadrettin Zeybek. *Deep learning-based detection of corrosion categories from SEM images of low alloyed medium carbon steel*.  
 **  (This work has not yet been published.) **
 
-
 We kindly ask you to give appropriate credit when using this dataset in any form of research or publication.
 
 ## License
 
-This dataset is released under the [BSD 3-Clause License](LICENSE), which permits reuse with attribution. For details, see the LICENSE file.
+This dataset is released under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0).
+
+**You are free to:**
+- Share, copy, and redistribute the material
+- Adapt, remix, transform, and build upon the material
+
+**Under these terms:**
+- **Attribution** — You must give appropriate credit
+- **NonCommercial** — You may not use the material for commercial purposes
+
+For commercial use inquiries, please contact: [aliosman.gokcan@cbu.edu.tr]
